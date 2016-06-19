@@ -1,0 +1,15 @@
+{
+  "name": "noble-bulb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "noble": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uri Shaked",
+  "license": "ISC"
+}
