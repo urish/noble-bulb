@@ -8,3 +8,4 @@
     * `npm config set python python2.7`
     * `npm config set msvs_version 2015`
     See [node-gyp](https://github.com/nodejs/node-gyp) for additional instructions 
+4. If still fails, try `npm install -g node-gyp@latest`
